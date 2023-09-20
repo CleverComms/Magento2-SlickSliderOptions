@@ -11,4 +11,4 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'SVDevelopments_SliderOptions', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'CleverComms_Magento2-SlickSliderOptions', __DIR__);
