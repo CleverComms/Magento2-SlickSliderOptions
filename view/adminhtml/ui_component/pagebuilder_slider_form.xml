@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 /**
- * @author SVDevelopments
+ * @author CleverComms
  * @copyright Copyright © 2021 SVDevelopments
- * @package SVDevelopments_SliderOptions
+ * @package CleverComms_Magento2-SlickSliderOptions
  */
 -->
 <form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd" extends="pagebuilder_base_form">
