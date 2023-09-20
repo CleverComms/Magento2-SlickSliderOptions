@@ -1,8 +1,8 @@
 /**
  * Copyright © 2021 SVDevelopments. All rights reserved.
  *
- * @package  SVDevelopments_SliderOptions
- * @author   SVDevelopments
+ * @package  CleverComms_Magento2-SlickSliderOptions
+ * @author   CleverComms
  */
 
 define([
