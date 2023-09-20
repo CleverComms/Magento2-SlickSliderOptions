@@ -5,8 +5,8 @@
  * Copyright © 2021 SVDevelopments. All rights reserved.
  *
  * @category Class
- * @package  SVDevelopments_SliderOptions
- * @author   SVDevelopments
+ * @package  CleverComms_Magento2-SlickSliderOptions
+ * @author   CleverComms
  */
 
 use Magento\Framework\Component\ComponentRegistrar;
