@@ -9,7 +9,7 @@ Add new options for the Slick configuration in the Page Builder Slider. _Just Fr
 - slidesToScroll
 
 ### **Install via composer:**
-```composer require svdevelopments/slider-options```
+```composer require clevercomms/magento2-slick-slider-options```
 
 ### **Author:**
 
